@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishiagrahari
 - 👀 I’m interested in Java,Python
-- 🌱 I’m currently learning Jdbc
+- 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me rishiagarhari31@gmail.com
 
